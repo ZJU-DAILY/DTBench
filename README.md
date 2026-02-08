@@ -1,2 +1,2 @@
 # DTBench
-A Benchmark for Documen-to-Table Extraction
+A Benchmark for Document-to-Table Extraction
