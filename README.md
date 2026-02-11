@@ -1,4 +1,4 @@
-# DTBench: A Benchmark for Document-to-Table Extraction
+# DTBench: A Synthetic Benchmark for Document-to-Table Extraction
 
 **DTBench** is the first capability-aware synthetic benchmark designed for evaluating **Document-to-Table (Doc2Table)** extraction. While Large Language Models (LLMs) have shown promise in flexible information extraction, their ability to produce precisely structured tables from complex documents—requiring transformation, reasoning, conflict resolution, and faithfulness—remains insufficiently understood.
 
